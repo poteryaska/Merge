@@ -1,5 +1,5 @@
 def get_capital(letters):
-    '''capital letters'''
+    '''modificate in capital letters'''
     return letters.upper()
 
 
